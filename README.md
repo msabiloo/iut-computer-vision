@@ -10,6 +10,9 @@
 #### پیش‌نیازها
 آشنایی با زبان برنامه‌نویسی پایتون (python)
 
+#### مراجع
+* [A Practical Introduction to Computer Vision with OpenCV](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV)
+
 #### مشارکت
 برای مشارکت در این مخزن فایل [CONTRIBUTING.md](CONTRIBUTING.md) را مطالعه کنید.
 
