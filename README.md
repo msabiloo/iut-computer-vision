@@ -15,6 +15,7 @@
     * [تصویرهای رنگی (Color Images)](ch_02_images/ch_02_2_3.ipynb)
 * فصل چهارم
     * [آستانه‌گذاری (Thresholding)](ch_04_binary_vision/ch_04_1.ipynb)
+    * [تحلیل دونمایی هیستوگرام (Bimodal Histogram Analysis)](ch_04_binary_vision/ch_04_2_1.ipynb)
 #### پیش‌نیازها
 آشنایی با زبان برنامه‌نویسی پایتون (python)
 
