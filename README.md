@@ -14,7 +14,7 @@
     * [کمی‌سازی (Quantisation)](ch_02_images/ch_02_2_2.ipynb)
     * [تصویرهای رنگی (Color Images)](ch_02_images/ch_02_2_3.ipynb)
 * فصل چهارم
-    * [آستانه‌گذاری (Thresholding)](ch_04_binary_vision/ch_04_1)
+    * [آستانه‌گذاری (Thresholding)](ch_04_binary_vision/ch_04_1.ipynb)
 #### پیش‌نیازها
 آشنایی با زبان برنامه‌نویسی پایتون (python)
 
