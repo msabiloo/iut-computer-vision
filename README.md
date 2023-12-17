@@ -16,6 +16,7 @@
 * فصل چهارم
     * [آستانه‌گذاری (Thresholding)](ch_04_binary_vision/ch_04_1.ipynb)
     * [تحلیل دونمایی هیستوگرام (Bimodal Histogram Analysis)](ch_04_binary_vision/ch_04_2_1.ipynb)
+    * [آستانه مطلوب (Optimal Thresholding)](ch_04_binary_vision/ch_04_2_2.ipynb)
 #### پیش‌نیازها
 آشنایی با زبان برنامه‌نویسی پایتون (python)
 
